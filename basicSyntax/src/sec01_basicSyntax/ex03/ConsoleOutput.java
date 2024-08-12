@@ -35,5 +35,7 @@ public class ConsoleOutput {
 
         System.out.printf("%s\n", "출력"); // 문자열로 출력, 출력
         System.out.printf("%f\n", 3.5); // 실수 출력, 3.500000
+        System.out.printf("%4.2f\n", 3.5); // 자릿수 조정 후 실수 출력, 3.50
+        System.out.printf("%d와 %4.2f\n", 5, 3.5); // 정수와 실수 출력, 3.50
     }
 }
