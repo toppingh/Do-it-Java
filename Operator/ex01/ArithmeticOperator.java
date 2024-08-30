@@ -1,4 +1,4 @@
-package sec01_operator_1.ex01;
+package Operator.ex01;
 
 public class ArithmeticOperator {
     public static void main(String[] args) {

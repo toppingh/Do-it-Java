@@ -1,4 +1,4 @@
-package sec01_operator_1.ex02;
+package Operator.ex02;
 
 public class ConditionalOperator {
     public static void main(String[] args) {

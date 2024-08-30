@@ -1,4 +1,4 @@
-package sec01_operator_1.ex02;
+package Operator.ex02;
 
 public class LogicalOperator {
     public static void main(String[] args) {
