@@ -25,7 +25,7 @@ public class SwitchControlStatement {
                 break;
             case 2:
                 System.out.println("B");
-                break;
+                break; // break가 없고 value2 값이 2일 경우 B, C 출력 후 break
             case 3:
                 System.out.println("C");
                 break;
