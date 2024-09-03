@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Study.iml" filepath="$PROJECT_DIR$/.idea/Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicSyntax/basicSyntax.iml" filepath="$PROJECT_DIR$/basicSyntax/basicSyntax.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dataTypeAndPrimaryDataType/dataTypeAndPrimaryDataType.iml" filepath="$PROJECT_DIR$/dataTypeAndPrimaryDataType/dataTypeAndPrimaryDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypeAndPrimaryDataType/dataTypeAndPrimaryDataType.iml" filepath="$PROJECT_DIR$/DataTypeAndPrimaryDataType/dataTypeAndPrimaryDataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sec01_operator1.iml" filepath="$PROJECT_DIR$/.idea/modules/sec01_operator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sec01_operator_1.iml" filepath="$PROJECT_DIR$/sec01_operator_1.iml" />
     </modules>
