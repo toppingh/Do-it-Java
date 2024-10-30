@@ -1,4 +1,4 @@
-package InheritancePolymorphism.ex01;
+package InheritancePolymorphism.Sec01.ex01;
 
 class Human {
     String name;

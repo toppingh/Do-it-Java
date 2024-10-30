@@ -1,4 +1,4 @@
-package InheritancePolymorphism.ex02;
+package InheritancePolymorphism.Sec01.ex02;
 
 // 상속 관계 만들기
 class A {}
